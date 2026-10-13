@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"grp-0","type":"group","x":0,"y":0,"width":1328,"height":190,"color":"1","label":"01-Fundamentos"},
+		{"id":"grp-3","type":"group","x":0,"y":840,"width":1004,"height":190,"color":"4","label":"04-Interfaces-Usuario"},
+		{"id":"grp-5","type":"group","x":0,"y":1400,"width":1004,"height":190,"color":"6","label":"06-Persistencia"},
+		{"id":"grp-1","type":"group","x":0,"y":280,"width":680,"height":190,"color":"2","label":"02-Estructuras-Datos"},
+		{"id":"grp-2","type":"group","x":0,"y":560,"width":680,"height":190,"color":"3","label":"03-POO"},
+		{"id":"grp-4","type":"group","x":0,"y":1120,"width":680,"height":190,"color":"5","label":"05-Concurrencia"},
+		{"id":"grp-6","type":"group","x":0,"y":1680,"width":680,"height":190,"color":"1","label":"07-Arquitectura-Pruebas"},
+		{"id":"grp-7","type":"group","x":0,"y":1960,"width":680,"height":190,"color":"6","label":"08-Arquitectura-Interna"},
+		{"id":"title","text":"# Tutorial .NET Framework / VB.NET\n**Mapa de notas agrupadas por categoria.** Las flechas indican el orden de estudio recomendado.","type":"text","x":0,"y":-220,"width":1100,"height":150},
+		{"id":"note-0-0","type":"file","file":"Notas Net/01-Fundamentos/Tipos-Datos.md","x":28,"y":56,"width":300,"height":110},
+		{"id":"note-0-1","type":"file","file":"Notas Net/01-Fundamentos/Sintaxis-Simbolos-Keywords.md","x":352,"y":56,"width":300,"height":110},
+		{"id":"note-0-2","type":"file","file":"Notas Net/01-Fundamentos/Control-Flujo.md","x":676,"y":56,"width":300,"height":110},
+		{"id":"note-0-3","type":"file","file":"Notas Net/01-Fundamentos/Excepciones.md","x":1000,"y":56,"width":300,"height":110},
+		{"id":"note-1-0","type":"file","file":"Notas Net/02-Estructuras-Datos/Colecciones-Genericas.md","x":28,"y":336,"width":300,"height":110},
+		{"id":"note-1-1","type":"file","file":"Notas Net/02-Estructuras-Datos/LINQ-To-Objects.md","x":352,"y":336,"width":300,"height":110},
+		{"id":"note-2-0","type":"file","file":"Notas Net/03-POO/Clases-Miembros.md","x":28,"y":616,"width":300,"height":110},
+		{"id":"note-2-1","type":"file","file":"Notas Net/03-POO/Herencia-Interfaces.md","x":352,"y":616,"width":300,"height":110},
+		{"id":"note-3-0","type":"file","file":"Notas Net/04-Interfaces-Usuario/Windows-Forms-Controles.md","x":28,"y":896,"width":300,"height":110},
+		{"id":"note-3-1","type":"file","file":"Notas Net/04-Interfaces-Usuario/Eventos-Delegados.md","x":352,"y":896,"width":300,"height":110},
+		{"id":"note-3-2","type":"file","file":"Notas Net/04-Interfaces-Usuario/Ciclo-Vida-Formulario.md","x":676,"y":896,"width":300,"height":110},
+		{"id":"note-4-0","type":"file","file":"Notas Net/05-Concurrencia/Task-Parallel-Library.md","x":28,"y":1176,"width":300,"height":110},
+		{"id":"note-4-1","type":"file","file":"Notas Net/05-Concurrencia/BackgroundWorker.md","x":352,"y":1176,"width":300,"height":110},
+		{"id":"note-5-0","type":"file","file":"Notas Net/06-Persistencia/System-IO.md","x":28,"y":1456,"width":300,"height":110},
+		{"id":"note-5-1","type":"file","file":"Notas Net/06-Persistencia/ADO.NET-SQL.md","x":352,"y":1456,"width":300,"height":110},
+		{"id":"note-5-2","type":"file","file":"Notas Net/06-Persistencia/Manipulacion-XML.md","x":676,"y":1456,"width":300,"height":110},
+		{"id":"note-6-0","type":"file","file":"Notas Net/07-Arquitectura-Pruebas/Estructura-Capas.md","x":28,"y":1736,"width":300,"height":110},
+		{"id":"note-6-1","type":"file","file":"Notas Net/07-Arquitectura-Pruebas/Pruebas-Unitarias.md","x":352,"y":1736,"width":300,"height":110},
+		{"id":"note-7-0","type":"file","file":"Notas Net/08-Arquitectura-Interna/SO-CLR-Proceso.md","x":28,"y":2016,"width":300,"height":110},
+		{"id":"note-7-1","type":"file","file":"Notas Net/08-Arquitectura-Interna/SO-CLR-Proceso.png","x":352,"y":2016,"width":150,"height":110}
+	],
+	"edges":[
+		{"id":"edge-7","fromNode":"grp-6","fromSide":"bottom","toNode":"grp-7","toSide":"top"}
+	]
+}
